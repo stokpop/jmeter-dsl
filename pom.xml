@@ -60,7 +60,7 @@
         <kotlin.version>1.6.10</kotlin.version>
         <kotlin.code.style>official</kotlin.code.style>
         <junit.version>4.13.2</junit.version>
-        <jmeter.version>5.5-SNAPSHOT</jmeter.version>
+        <jmeter.version>5.5</jmeter.version>
         <java.version>11</java.version>
         <license-maven-plugin.version>4.1</license-maven-plugin.version>
     </properties>
